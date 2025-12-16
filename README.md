@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Hi,%20I'm%20Hamza%20Shahid&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Graduate%20|%20AI%20Engineer%20|%20Researcher&descAlignY=55&descAlign=60&fontColor=00BFFF" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Hi,%20I'm%20Hamza%20Shahid&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Undergraduate%20|%20ML%20&%20AI%20Researcher&descAlignY=55&descAlign=60&fontColor=00BFFF" alt="header" />
   
   <br/>
   
@@ -26,14 +26,13 @@
     <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <p>
-        I am a <b>Data Science Graduate Student</b> passionate about bridging the gap between data and actionable intelligence. My focus lies in <b>Computer Vision</b> (specifically medical imaging like Kidney Tumor Segmentation) and building autonomous <b>AI Agents</b>.
+        <b>Data Science Undergraduate</b> | Actively engaged in <b>Machine Learning (ML)</b> and <b>Artificial Intelligence (AI)</b> research and development. Actively learning.
       </p>
       <ul>
-        <li>🔭 I’m currently working on <b>KiTS23 (Kidney Tumor Segmentation)</b>.</li>
-        <li>🧬 Deeply interested in <b>CNNs, Transformers, and NLP</b>.</li>
-        <li>🎓 Completed Andrew Ng's <b>Deep Learning Specialization</b>.</li>
-        <li>👯 Open to collaborating on <b>Medical AI & Open Source</b>.</li>
-        <li>💬 Ask me about <b>TensorFlow, Keras, and Feature Engineering</b>.</li>
+        <li>🔭 I’m currently working on <b>End-to-End ML Projects</b>.</li>
+        <li>🌱 Deeply interested in <b>Deep Learning & Computer Vision</b>.</li>
+        <li>👯 Open to collaborating on <b>Open Source AI Projects</b>.</li>
+        <li>💬 Ask me about <b>Python, Data Analysis, and Model Optimization</b>.</li>
       </ul>
     </td>
     <td width="40%" align="center">
