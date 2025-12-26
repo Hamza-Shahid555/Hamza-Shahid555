@@ -1,101 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Hi,%20I'm%20Hamza%20Shahid&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Undergraduate%20|%20AI%20Innovator&descAlignY=55&descAlign=60&fontColor=00BFFF" alt="header" />
   
-  <br/>
-  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hamza%20Shahid&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Computer%20Vision%20Researcher&descAlignY=55&descAlign=62&fontColor=00BFFF)
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Data+Science+Undergraduate;Mastering+Industry-Standard+AI+Skills;Building+Scalable+ML+Pipelines;Exploring+Deep+Learning+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Autonomous+AI+Agents;Specializing+in+Computer+Vision+%26+Medical+Imaging;Developing+Scalable+ML+Pipelines;Exploring+Generative+AI+%26+LLMs" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://www.linkedin.com/in/hamza-shahid-56a008372" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/Hamza-Shahid555" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 **About Me**
+
+I am a **Final Year Data Science Undergraduate** passionate about bridging the gap between theoretical AI and real-world solutions. My work focuses on **Computer Vision (Medical Imaging)**, **Autonomous Agents**, and **Deep Learning**.
+
+- 🔭 I’m currently working on **CropDoc** (Plant Disease Classification) & **KiTS23** (Kidney Tumor Segmentation).
+- 🎓 Completed **Neural Networks and Deep Learning** by DeepLearning.AI.
+- 👯 I’m looking to collaborate on **Open Source AI Agents** and **LLM Projects**.
+- 💬 Ask me about **Python, TensorFlow, PyTorch, and Computer Vision**.
+
+---
+
+### 🛠️ **Tech Stack**
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn,pandas,numpy,matplotlib,git,github,vscode,linux,mysql,aws,docker&perline=8&theme=dark" />
   </a>
 </div>
 
-<br/>
+---
+
+### 📊 **GitHub Stats & Trophies**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hamza-shahid-56a008372" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Shahid555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
-  <a href="https://github.com/Hamza-Shahid555" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<br/>
-
-<table border="0" align="center">
-  <tr>
-    <td width="55%" valign="center">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        <b>Data Science Undergraduate</b> | Actively engaged in <b>Machine Learning (ML)</b> and <b>Artificial Intelligence (AI)</b> research and development.
-      </p>
-      <p>
-        🚀 <b>Current Focus:</b> I am dedicated to <b>learning new skills according to industry standards</b> in the field of AI and ML to bridge the gap between academic theory and real-world application.
-      </p>
-      <ul>
-        <li>🔭 Working on <b>End-to-End ML Pipelines</b>.</li>
-        <li>🌱 Mastering <b>Computer Vision & NLP</b>.</li>
-        <li>💡 Implementing <b>Research Papers into Code</b>.</li>
-        <li>💬 Ask me about <b>Python, Keras, and Model Deployment</b>.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3 align="center">🛠️ Technology Stack</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv,pandas,numpy,matplotlib&perline=8" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,mysql,aws,linux&perline=8" />
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  </a>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Hamza-Shahid555&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&currStreakLabel=00BFFF" height="180" alt="streak graph" />
+  </a>
 </div>
 
-<br/>
+---
 
-<h3 align="center">🚀 Key Projects</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project">
-        <img src="https://img.shields.io/badge/APS_Failure_Detection-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-      </a>
-      <br/><br/>
-      <b>Industry Case Study:</b> Predicting failures in heavy-duty vehicle air systems using ML pipelines.
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hamza-Shahid555/Deep-learning">
-        <img src="https://img.shields.io/badge/Deep_Learning_Hub-00BFFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      </a>
-      <br/><br/>
-      <b>Research Hub:</b> A repository bridging theoretical intuition with practical DL implementations (ANN/CNN).
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN">
-        <img src="https://img.shields.io/badge/Churn_Prediction-2ea44f?style=for-the-badge&logo=pandas&logoColor=white" />
-      </a>
-      <br/><br/>
-      <b>Business Analytics:</b> Interactive dashboard predicting customer retention using Neural Networks.
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3 align="center">📊 Analytics & Activity</h3>
+### 🐍 **Contribution Snake**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF" height="150" alt="languages graph" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Shahid555&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&hide_border=true" width="100%" alt="activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hamza-Shahid555/Hamza-Shahid555/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hamza-Shahid555/Hamza-Shahid555/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Hamza-Shahid555/Hamza-Shahid555/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-<br/>
+---
+
+### 🚀 **Featured Projects**
+
+| **Project** | **Description** | **Tech** |
+|:---:|:---:|:---:|
+| **End_to_End_APS_ML_Project** | Predicting failures in heavy-duty vehicle air systems. | `ML Pipelines` `Scikit-Learn` |
+| **Deep-Learning Hub** | Structured collection of ANN/CNN models & algorithms. | `TensorFlow` `Keras` `ANN` |
+| **Customer Churn Prediction** | Bank customer retention analysis using ANN. | `Neural Networks` `Pandas` |
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamza-Shahid555&style=flat-square&color=00BFFF&label=Profile+Views" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
 </div>
