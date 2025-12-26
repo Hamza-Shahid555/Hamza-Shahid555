@@ -7,7 +7,7 @@
     <td width="55%" valign="top">
       <h3 align="center">👨‍💻 Identity Matrix</h3>
       
-      ```python
+        python
       class Hamza_Shahid(AI_Engineer):
           def __init__(self):
               self.name = "Hamza Shahid"
