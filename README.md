@@ -72,12 +72,19 @@ While my core expertise is General AI, I have deep experience applying these ski
 
 <div align="center">
   <a href="https://github.com/Hamza-Shahid555">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="170" />
   </a>
+  
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Hamza-Shahid555&theme=tokyonight&hide_border=true&background=00000000&ring=3382F6&currStreakLabel=3382F6" height="170" />
+    <img src="https://streak-stats.demolab.com/?user=Hamza-Shahid555&theme=tokyonight&hide_border=true&background=0d1117&ring=3382F6&currStreakLabel=3382F6" height="170" />
   </a>
+  
   <br/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Shahid555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Shahid555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
