@@ -1,78 +1,110 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=HAMZA%20SHAHID&fontSize=80&fontAlign=50&fontAlignY=40&desc=DATA%20SCIENCE%20%7C%20AI%20RESEARCH%20%7C%20COMPUTER%20VISION&descSize=20&descAlign=50&descAlignY=70&animation=fadeIn&stroke=ffffff" width="100%" />
-</div>
+# 👋 Hi, I’m Hamza Shahid
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=Initializing+AI+Protocols...;Architecting+Autonomous+Agents;Segmenting+Medical+Images+(KiTS23);Optimizing+Deep+Learning+Pipelines;Status:+Online+and+Ready+to+Code" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/hamza-shahid-56a008372">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hamza-Shahid555">
-    <img src="https://img.shields.io/badge/GitHub-View_Source-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br />
+🚀 **Machine Learning & AI Research Enthusiast**  
+🧠 Focused on **Deep Learning, Medical Image Segmentation, and Applied AI**  
+📊 Turning data into **scientifically sound, production-ready models**
 
 ---
 
-### 🔮 **Mission Control: Projects**
+## 🧩 About Me
 
-| **🛡️ FYP Thesis** | **🩺 Medical AI** | **🛒 Human-Computer Interaction** |
-|:---:|:---:|:---:|
-| **[🌱 CropDoc](https://github.com/Hamza-Shahid555)** | **[🧬 KiTS23](https://github.com/Hamza-Shahid555)** | **[🛍️ ShopEase](https://github.com/Hamza-Shahid555)** |
-| ![Plant](https://img.shields.io/badge/ResNet9-Classification-success?style=flat-square) | ![Med](https://img.shields.io/badge/CT_Scans-Segmentation-blue?style=flat-square) | ![Shop](https://img.shields.io/badge/React-UI%2FUX-yellow?style=flat-square) |
-| *Plant Disease Classification using Deep Learning.* | *Kidney Tumor Segmentation (SOTA CV Techniques).* | *Interactive E-Commerce Platform.* |
+I am a **Data Science undergraduate** deeply engaged in **Machine Learning and Artificial Intelligence**, with a strong interest in **research-oriented problem solving** and **real-world deployment**.
 
-| **🚛 Industrial ML** | **🧠 Deep Learning Hub** | **📉 Business Analytics** |
-|:---:|:---:|:---:|
-| **[⚙️ APS Fault Detection](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project)** | **[🕸️ DL Algorithms](https://github.com/Hamza-Shahid555/Deep-learning)** | **[📊 Churn Prediction](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN)** |
-| ![Truck](https://img.shields.io/badge/Scikit-Pipeline-orange?style=flat-square) | ![Brain](https://img.shields.io/badge/ANN-CNN-red?style=flat-square) | ![Chart](https://img.shields.io/badge/Pandas-Retention-blueviolet?style=flat-square) |
-| *Predicting heavy-duty vehicle failures.* | *Repository of neural networks from scratch.* | *Bank customer retention AI.* |
+I don’t just train models —  
+I **analyze failures**, **optimize architectures**, and **push performance beyond baselines**.
+
+My current work focuses on:
+- 🔬 Medical image segmentation (Kidney stones, tumors, CT-based datasets)
+- 🧠 Deep learning architectures (U-Net, Attention U-Net, CNNs)
+- ⚙️ End-to-end ML pipelines (from raw data → evaluation → results)
 
 ---
 
-### 🛠️ **Technological Arsenal**
+## 🔍 What I Work On
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=python,cpp,java,sql&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Intelligence</b></td>
-      <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Data Ops</b></td>
-      <td><img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Infrastructure</b></td>
-      <td><img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode&theme=dark" /></td>
-    </tr>
-  </table>
-</div>
+### 🤖 Machine Learning & Deep Learning
+- Supervised & unsupervised learning
+- Neural networks, CNNs, Attention mechanisms
+- Performance-driven optimization (Dice, Recall, Sensitivity)
+
+### 🏥 Medical AI (Research-Focused)
+- CT image segmentation
+- Small-object detection challenges
+- Loss engineering (Dice, Focal, Combo Loss)
+- nnU-Net & PyTorch-based workflows
+
+### 🛠️ Practical Engineering
+- Dataset preprocessing & validation
+- Model evaluation & error analysis
+- Reproducible experiments
+- Clean, modular, research-ready code
 
 ---
 
-### 📊 **Performance Metrics**
+## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Hamza-Shahid555">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=midnight-dusk&hide_border=true&bg_color=00000000" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Hamza-Shahid555&theme=midnight-dusk&hide_border=true&background=00000000&ring=E94D5F&currStreakLabel=E94D5F" height="180" />
-  </a>
-</div>
+🔹 **Kidney Stone Segmentation (Medical AI)**  
+- CT-based image segmentation  
+- Goal: **Beat published baselines using advanced architectures**  
+- Focus on small-object recall and robustness  
 
-<br/>
+🔹 **Customer Churn Prediction**  
+- ANN & Random Forest models  
+- Feature engineering + evaluation metrics  
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+🔹 **Image Classification (CNNs)**  
+- Cat vs Dog classification  
+- Data augmentation & performance tuning  
+
+🔹 **End-to-End ML Projects**  
+- From raw datasets → trained models → results  
+
+> 📌 *I value quality over quantity — every project is a learning step toward research-grade AI.*
+
+---
+
+## 🧠 My Approach to AI
+
+✔️ Understand the **data first**  
+✔️ Question every metric  
+✔️ Optimize for **real-world performance**, not just accuracy  
+✔️ Prefer **explainability & reproducibility** over shortcuts  
+
+> *A model that performs well but cannot be explained is incomplete.*
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**
+- Python
+- PyTorch
+- TensorFlow / Keras
+- Scikit-learn
+
+**Tools & Ecosystem**
+- NumPy, Pandas
+- OpenCV, PIL
+- nnU-Net
+- Jupyter, Google Colab, Kaggle
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Advanced medical image segmentation
+- Attention-based architectures
+- Research paper reproduction
+- Model generalization & robustness
+
+---
+
+## 🤝 Let’s Connect
+
+📫 **Open to collaboration, research discussions, and serious ML projects**  
+💼 LinkedIn: *(linked on profile)*  
+📌 GitHub: You’re already here 😉
+
+---
+
+⭐ *If you find my work useful, feel free to star or fork — it helps more than you think.*
