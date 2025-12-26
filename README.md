@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=HAMZA%20SHAHID&fontSize=80&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20DATA%20SCIENTIST&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=HAMZA%20SHAHID&fontSize=80&fontAlignY=35&desc=AI%20RESEARCH%20%7C%20MEDICAL%20IMAGING%20%7C%20DEEP%20LEARNING&descSize=20&descAlignY=60&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=1" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Architecting+Autonomous+AI+Agents;Specializing+in+Computer+Vision+(Medical);Building+Scalable+ML+Pipelines;Final+Year+Data+Science+Undergraduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Analyze+Failures+%7C+Optimize+Architectures;Specializing+in+Medical+Image+Segmentation;Turning+Data+into+Production-Ready+Models;Pushing+Performance+Beyond+Baselines" alt="Typing SVG" />
   </a>
 
   <p>
@@ -22,26 +22,46 @@
 
 ---
 
+### 🧩 **About Me**
+
+> *"A model that performs well but cannot be explained is incomplete."*
+
+I am a **Data Science undergraduate** and **AI Research Enthusiast** focused on bridging the gap between theoretical baselines and real-world deployment. I don’t just train models—I **analyze failures**, **optimize architectures**, and **engineer loss functions** to solve complex problems.
+
+* 🔬 **Research:** Medical Image Segmentation (CT Scans, Tumors), Small Object Detection.
+* 🧠 **Deep Learning:** Custom U-Net Architectures, Attention Mechanisms, CNNs.
+* ⚙️ **Engineering:** End-to-End Pipelines, Reproducible Experiments, Model robustness.
+
+---
+
 ### 🚀 **Featured Projects & Research**
 
-| **🌱 FYP Thesis** | **🩺 Medical AI** | **🛒 HCI Project** |
+| **🩺 Medical AI (Research)** | **🚛 Industrial ML** | **📉 Business Analytics** |
 | :---: | :---: | :---: |
-| **[CropDoc System](https://github.com/Hamza-Shahid555)** | **[KiTS23 Segmentation](https://github.com/Hamza-Shahid555)** | **[ShopEase Platform](https://github.com/Hamza-Shahid555)** |
-| ![ResNet9](https://img.shields.io/badge/ResNet9-Classification-success) | ![CV](https://img.shields.io/badge/Computer_Vision-CT_Scans-blue) | ![React](https://img.shields.io/badge/React-UI%2FUX_Design-yellow) |
-| *Plant Disease Classification* | *Kidney Tumor Segmentation* | *Interactive E-Commerce* |
+| **[Kidney Stone Segmentation](https://github.com/Hamza-Shahid555)** | **[APS Fault Detection](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project)** | **[Churn Prediction](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN)** |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-nnU_Net-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Scikit](https://img.shields.io/badge/Scikit_Learn-Pipeline-orange?style=flat-square) | ![Pandas](https://img.shields.io/badge/Pandas-RF_%2F_ANN-blueviolet?style=flat-square) |
+| *Beating baselines in CT Scan Segmentation.* | *Heavy Vehicle Failure Prediction.* | *Bank Customer Retention Engine.* |
 
-| **🚛 Industrial ML** | **🧠 Deep Learning Hub** | **📉 Business AI** |
+| **🌱 FYP Thesis** | **🧠 Deep Learning Hub** | **🖼️ Computer Vision** |
 | :---: | :---: | :---: |
-| **[APS Fault Detection](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project)** | **[DL Algorithms](https://github.com/Hamza-Shahid555/Deep-learning)** | **[Churn Prediction](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN)** |
-| ![Scikit](https://img.shields.io/badge/Scikit_Learn-Pipeline-orange) | ![ANN](https://img.shields.io/badge/ANN_%2F_CNN-Research-red) | ![Pandas](https://img.shields.io/badge/Pandas-Analytics-blueviolet) |
-| *Heavy Vehicle Failure Prediction* | *Neural Networks from Scratch* | *Bank Customer Retention* |
+| **[CropDoc System](https://github.com/Hamza-Shahid555)** | **[DL Algorithms](https://github.com/Hamza-Shahid555/Deep-learning)** | **[Cat vs Dog Clf](https://github.com/Hamza-Shahid555)** |
+| ![ResNet](https://img.shields.io/badge/ResNet9-Classification-success?style=flat-square) | ![ANN](https://img.shields.io/badge/ANN_%2F_CNN-Scratch_Impl-red?style=flat-square) | ![TF](https://img.shields.io/badge/TensorFlow-Augmentation-FF6F00?style=flat-square) |
+| *Plant Disease Classification.* | *Neural Networks built from scratch.* | *Optimized CNNs for Classification.* |
+
+---
+
+### 🧠 **My Approach to AI**
+
+1.  **Data First:** Understand the domain before touching the code.
+2.  **Metric Integrity:** Question every accuracy score; optimize for Dice, Recall, and Sensitivity.
+3.  **Reproducibility:** Write clean, modular, research-ready code.
 
 ---
 
 ### 🛠️ **Technological Arsenal**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn,pandas,numpy,matplotlib&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,pandas,numpy,matplotlib&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,mysql,notion&theme=dark" />
 </div>
