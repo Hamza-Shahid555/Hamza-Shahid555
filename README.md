@@ -8,41 +8,6 @@
 
 ---
 
-### 🔬 Neural Network Overview
-- 🎓 **Academic Path:** Data Science Undergraduate.
-- 🤖 **Core Focus:** Actively researching Machine Learning (ML) and Artificial Intelligence (AI).
-- 📈 **Goal:** Bridging the gap between raw data and actionable intelligence.
-- ✍️ **Philosophy:** *"In God we trust, all others must bring data."*
-
----
-
-### 🛠️ The Research Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,mysql,tensorflow,pytorch,sklearn&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📈 Global Intelligence Metrics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=nord&border_radius=10&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid555&layout=compact&theme=nord&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Shahid555&theme=nord&hide_border=true&border_radius=10" />
-</p>
-
----
-
-### 📂 Key Projects & Systems
-* 🧠 **Machine Learning Research:** [Link] - Deep learning models and data preprocessing.
-* ✈️ **Flight Management:** [Link] - Complex system logic implemented in C++.
-* 🏦 **ATM Simulation:** [Link] - Foundational transactional engineering in C#.
-
 ---
 
 ### 📡 Establish Connection
