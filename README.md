@@ -1,65 +1,69 @@
-![Futuristic AI Banner](https://jktech.com/wp-content/uploads/2024/01/deep-learning-framework.jpg)
+![Futuristic Neural Network Banner](https://thumbs.dreamstime.com/b/abstract-network-connection-futuristic-digital-nodes-intertwined-lines-glowing-orange-blue-ideal-technology-ai-blockchain-387381501.jpg)
 
 <div align="center">
 
-![Coding Animation](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+![Coding Animation](https://images.squarespace-cdn.com/content/63139bb1e1a1a078e071f30c/9e2aa688-f897-491c-9b2b-7ac411d95d0d/if-let.gif?content-type=image%2Fgif)
 
-# 👋 Hey, I'm Hamza Shahid 🚀
+<br>
 
-**Data Science Undergraduate** | **Machine Learning & AI Builder**
+# <span style="color:#FF6F00;">Hamza Shahid</span> 🚀
 
-Passionate about turning data into intelligence. Building end-to-end ML pipelines, exploring deep learning, and pushing into cutting-edge models like **xLSTM** & **Transformers**.
+**Data Science Undergraduate • Machine Learning & AI Architect**
 
-🔭 Diving into: Advanced NLP • Time-Series Forecasting • Production ML  
-🌱 Mastering: PyTorch • MLOps • Deployed AI Systems  
-👯 Let's collaborate on cool ML/AI projects!  
-📫 Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-shahid-56a008372)
+Building the future of intelligence – from classical algorithms to **xLSTM** and **Transformer-powered forecasting**.
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hamza-Shahid555.Hamza-Shahid555&left_color=black&right_color=purple)
+> *"Turning data into decisions, one neural connection at a time."*
+
+🔭 **Exploring**: Modern Sequence Modeling • Zero-Shot Learning • Production ML  
+🌱 **Mastering**: PyTorch Ecosystems • Advanced Architectures • MLOps  
+👯 **Collaborate with me** on groundbreaking AI projects!  
+📫 **Let's connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shahid-56a008372)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hamza-Shahid555.Hamza-Shahid555&left_color=black&right_color=ff6f00)
 
 </div>
 
 ---
 
-### 🔥 Spotlight Projects
+### 🌌 Spotlight Projects – Journey Through ML Evolution
 
 <div align="center">
 
-| Project | Highlights | Tech | Link |
-|-------|------------|------|------|
-| **Machine Learning A to Z** | Full classical ML guide with modular code | Python • Scikit-learn • Pandas | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/Machin_learning_A_to_Z) ⭐ |
-| **End-to-End APS Failure Detection** | Real-world fault prediction pipeline | Scikit-learn • Jupyter | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project) |
-| **Deep Learning Collection** | Theory-to-practice deep models | TensorFlow • Keras • PyTorch | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/Deep-learning) |
-| **Customer Churn Dashboard** | Interactive ANN + RF predictor | Neural Networks • Dashboard | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN) |
-| **xLSTM Benchmark** | Extended LSTM impl + comparisons | PyTorch • Modern RNNs | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/xLSTM-Bench) 🆕 |
-| **Zero-Shot Financial Forecasting** | Transformer zero-shot on time series | Transformers • PyTorch | [![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/Zero-Shot-Financial-Forecasting-with-Transformers) 🆕 |
+| Evolution Stage | Project | Key Highlights | Tech Arsenal | View |
+|-----------------|---------|----------------|--------------|------|
+| **Foundations** | Machine Learning A to Z | Modular classical algorithms mastery | Scikit-learn • Pandas • NumPy | [![Repo](https://img.shields.io/badge/🔍_View-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Machin_learning_A_to_Z) |
+| **Real-World Pipelines** | End-to-End APS Failure Detection | Vehicle fault prediction E2E | Scikit-learn • Feature Engineering | [![Repo](https://img.shields.io/badge/🔍_View-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project) |
+| **Deep Dive** | Deep Learning Collection | Theory-to-code deep models | TensorFlow • Keras • PyTorch | [![Repo](https://img.shields.io/badge/🔍_View-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Deep-learning) |
+| **Interactive AI** | Customer Churn Dashboard | ANN + RF with live predictions | Neural Nets • Dashboarding | [![Repo](https://img.shields.io/badge/🔍_View-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN) |
+| **Cutting Edge** 🆕 | xLSTM Benchmark | Extended LSTM impl & performance vs classics | PyTorch • Modern RNNs | [![Repo](https://img.shields.io/badge/🔍_View-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/xLSTM-Bench) |
+| **Future Forward** 🆕 | Zero-Shot Financial Forecasting | Transformers for zero-shot time series | Hugging Face • PyTorch | [![Repo](https://img.shields.io/badge/🔍_View-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Zero-Shot-Financial-Forecasting-with-Transformers) |
 
-*Star what inspires you – let's grow together! ⭐*
+*Every star ⭐ fuels the next breakthrough – thank you!*
 
 </div>
 
 ---
 
-### 🛠️ Tech Arsenal
+### ⚡ Tech Nebula
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="70" alt="PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="70" alt="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" height="70" alt="Keras" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="70" alt="Scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="70" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="70" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="70" alt="Jupyter" />
 
 <br><br>
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![ML/DL](https://img.shields.io/badge/ML|DL-Advanced-FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-Growing-EF3B2D?logo=pytorch)
-![Data Viz](https://img.shields.io/badge/Data_Analysis-Pro-2CA02C)
+<span style="font-size:1.5em;">🧠 **Core Strengths**</span><br>
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Expert-FF6F00?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-Exploring-00D1B2?style=flat-square)
+![Sequence Models](https://img.shields.io/badge/xLSTM_&_RNNs-Cutting_Edge-7928D1?style=flat-square)
+![End-to-End ML](https://img.shields.io/badge/Pipelines-Mastered-2CA02C?style=flat-square)
 
 </div>
 
@@ -67,7 +71,11 @@ Passionate about turning data into intelligence. Building end-to-end ML pipeline
 
 <div align="center">
 
-**Thanks for visiting my corner of GitHub!** ✨  
-*Keep exploring • Keep building • Keep leveling up* 💜
+![Neural Glow](https://thumbs.dreamstime.com/b/neural-network-abstract-art-neon-holographic-colors-futuristic-digital-design-dark-background-iridescent-glow-style-398183895.jpg)
+
+<br><br>
+
+**Welcome to my digital lab.**  
+*Building tomorrow's AI, one commit at a time.* 🌠
 
 </div>
