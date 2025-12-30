@@ -1,59 +1,83 @@
-# Hi there, I'm Hamza Shahid 👋
+![Header Animation](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<div align="center">
 
-**Data Science Undergraduate** | Machine Learning & Artificial Intelligence Enthusiast
+# 👋 Hi, I'm Hamza Shahid
 
-Actively engaged in Machine Learning (ML) and Artificial Intelligence (AI) research and development. Passionate about building end-to-end ML solutions, deep learning models, and exploring cutting-edge architectures like Transformers and xLSTM.
+**Data Science Undergraduate** 🚀  
+*Machine Learning & Artificial Intelligence Enthusiast*
 
-- 🔭 Currently diving deeper into modern NLP, computer vision, and time-series forecasting  
-- 🌱 Learning advanced deep learning techniques and model deployment  
-- 👯 Open to collaborations on ML/AI projects  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hamza-shahid-56a008372)  
+Actively building end-to-end ML solutions, exploring deep learning, and diving into cutting-edge architectures like Transformers & xLSTM.
+
+🔭 **Currently working on**: Advanced NLP, Time-Series Forecasting & Model Deployment  
+🌱 **Learning**: PyTorch, MLOps, and Production-Grade AI  
+👯 **Open to**: Collaborations on ML/AI projects  
+📫 **Connect with me**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shahid-56a008372)
+
+</div>
+
+---
+
+### 🔥 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hamza-Shahid555&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-| ------- | ----------- | ---------- | ---- |
-| **Machine Learning A to Z** | Comprehensive guide with modular implementations of classical ML algorithms – from preprocessing to advanced models | Python, Scikit-learn, Pandas, NumPy, Jupyter | [![Repo](https://img.shields.io/badge/-View%20Repo-181717?style=flat&logo=github)](https://github.com/Hamza-Shahid555/Machin_learning_A_to_Z) |
-| **End-to-End APS Failure Detection** | Full ML pipeline for detecting Air Pressure System failures in heavy vehicles | Python, Scikit-learn, Pandas | [![Repo](https://img.shields.io/badge/-View%20Repo-181717?style=flat&logo=github)](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project) |
-| **Deep Learning Collection** | Structured implementations bridging theory and practice in deep learning | TensorFlow, Keras, PyTorch, Jupyter | [![Repo](https://img.shields.io/badge/-View%20Repo-181717?style=flat&logo=github)](https://github.com/Hamza-Shahid555/Deep-learning) |
-| **Customer Churn Prediction Dashboard** | Interactive ANN & Random Forest model for bank customer churn with prediction interface | ANN, Random Forest, Streamlit/Jupyter | [![Repo](https://img.shields.io/badge/-View%20Repo-181717?style=flat&logo=github)](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN) |
-| **Cat vs Dog Image Classifier** | CNN-based classifier using TensorFlow/Keras | TensorFlow, Keras, CNN | [![Repo](https://img.shields.io/badge/-View%20Repo-181717?style=flat&logo=github)](https://github.com/Hamza-Shahid555/Cat-Vs-Dog-Image-Classification-Project-) |
-| **Neural Networks & Deep Learning (Andrew Ng)** | Course assignments and notes from DeepLearning.AI specialization | Python, NumPy, Neural Networks | [![Repo](https://img.shields.io/badge/-View%20Repo-181717?style=flat&logo=github)](https://github.com/Hamza-Shahid555/Neural-Networks-and-Deep-Learning) |
+| # | Project | Description | Tech Stack | Stars/Forks |
+|---|---------|-------------|------------|-------------|
+| 1 | **Machine Learning A to Z** | Comprehensive modular guide to classical ML algorithms | Python • Scikit-learn • Pandas | [![GitHub stars](https://img.shields.io/github/stars/Hamza-Shahid555/Machin_learning_A_to_Z?style=social)](https://github.com/Hamza-Shahid555/Machin_learning_A_to_Z) |
+| 2 | **End-to-End APS Failure Detection** | Full pipeline for vehicle fault prediction | Scikit-learn • Pandas • Jupyter | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project) |
+| 3 | **Deep Learning Collection** | Hands-on deep learning models & experiments | TensorFlow • Keras • PyTorch | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/Deep-learning) |
+| 4 | **Customer Churn Prediction Dashboard** | Interactive ANN + RF churn predictor | Neural Networks • Streamlit | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN) |
+| 5 | **xLSTM Benchmark** | PyTorch implementation & comparison of Extended LSTM | PyTorch • LSTM Variants | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/xLSTM-Bench) |
+| 6 | **Zero-Shot Financial Forecasting** | Transformer-based zero-shot time series prediction | Transformers • PyTorch | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hamza-Shahid555/Zero-Shot-Financial-Forecasting-with-Transformers) |
 
-Explore more projects in my repositories below! 👇
+*More projects in my repos – feel free to explore and ⭐ what you like!*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technologies & Tools
 
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-<img align="left" alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</p>
 
-<br><br>
+**Skills Badge Row:**
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Advanced-orange)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Proficient-ff6f00)
+![PyTorch](https://img.shields.io/badge/PyTorch-New_Explorer-red?logo=pytorch)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Strong-green)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid555&layout=compact&theme=radical&hide_border=true)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Shahid555&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid555&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Shahid555&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-Thanks for visiting! Feel free to star ⭐ any project you like or connect on LinkedIn.
+<div align="center">
 
-*Keep learning, keep building! 🚀*
+**Thanks for stopping by!** ✨  
+*Keep learning • Keep coding • Keep pushing boundaries* 🚀
+
+</div>
