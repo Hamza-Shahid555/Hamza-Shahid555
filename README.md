@@ -1,63 +1,104 @@
+<!-- ████████████████████████████████████████████████ -->
+<!--           HAMZA SHAHID — GITHUB PROFILE         -->
+<!-- ████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamza%20Shahid&fontSize=70&fontAlignY=35&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20AI%20Research&descAlignY=60&descAlign=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF6F00,100:0d1117&height=220&section=header&text=Hamza%20Shahid&fontSize=72&fontAlignY=38&fontColor=FFFFFF&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Deep%20Learning%20Architect&descSize=17&descAlignY=62&descAlign=50&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate+%F0%9F%8E%93;Machine+Learning+%26+AI+Architect+%F0%9F%A4%96;Building+xLSTM+%26+Transformer+Systems+%E2%9A%A1;Zero-Shot+Financial+Forecasting+%F0%9F%93%88;Open+to+Collaborate+on+AI+Projects+%F0%9F%A4%9D)](https://git.io/typing-svg)
+</div>
 
-<br>
+<div align="center">
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Shahid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shahid-56a008372)
-[![GitHub followers](https://img.shields.io/github/followers/Hamza-Shahid555?label=Followers&style=for-the-badge&color=FF6F00&logo=github)](https://github.com/Hamza-Shahid555)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hamza-Shahid555&style=for-the-badge&color=FF6F00)](https://github.com/Hamza-Shahid555)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=FF6F00&center=true&vCenter=true&multiline=false&width=750&lines=Building+xLSTM+%26+Transformer+Systems+%E2%9A%A1;Vision+Transformers+for+Sign+Language+AI+%F0%9F%A4%9F;Zero-Shot+Financial+Forecasting+%F0%9F%93%88;End-to-End+ML+Pipelines+%F0%9F%8F%AD;Open+to+Collaborate+on+Ambitious+AI+Projects+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shahid-56a008372)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shahid555)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Hamza-Shahid555&style=for-the-badge&color=FF6F00&label=PROFILE+VIEWS)](https://github.com/Hamza-Shahid555)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+
+## 🧬 `whoami`
 
 ```python
 class HamzaShahid:
-    def __init__(self):
-        self.name        = "Hamza Shahid"
-        self.role        = "Data Science Undergraduate"
-        self.location    = "Pakistan 🇵🇰"
-        self.focus       = ["Machine Learning", "Deep Learning", "AI Research"]
-        self.currently   = ["xLSTM Architecture", "Zero-Shot Forecasting", "Transformer Models"]
-        self.mastering   = ["PyTorch", "Advanced Neural Architectures", "Deployment Pipelines"]
-        self.open_to     = "Collaborate on ambitious AI/ML projects 🤝"
-        self.quote       = "Engineering the next wave of AI, line by line."
 
-    def say_hi(self):
-        print("Welcome to my AI lab. Building tomorrow, one model at a time. 🌌")
+    name       = "Hamza Shahid"
+    title      = "Data Science Undergraduate"
+    location   = "Pakistan 🇵🇰"
+
+    interests  = [
+        "Sequence Modeling (xLSTM, RNNs)",
+        "Vision Transformers (ViT, ViViT)",
+        "Zero-Shot & Transfer Learning",
+        "Financial Time-Series Forecasting",
+        "Accessibility AI (Sign Language)",
+        "End-to-End ML Pipelines",
+    ]
+
+    currently  = "Pushing the frontier of AI, one commit at a time"
+    open_to    = "Research collaborations & ambitious AI/ML projects"
+
+    def motto(self):
+        return "Engineering the next wave of AI — line by line. 🚀"
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🚀 Project Evolution — From Foundations to Frontier
+## 🌌 Project Universe — Complete AI/ML Journey
 
-> A curated journey through my ML/AI development — each project a step deeper into the field.
+> From classical algorithms to cutting-edge research. Each project is a milestone.
 
-### 🧱 Stage 1 — Classical Machine Learning Mastery
+---
+
+### 🔬 FLAGSHIP — Vision AI for Accessibility
+
 <table>
 <tr>
-<td width="70%">
+<td>
 
-**[📘 Machine Learning A to Z](https://github.com/Hamza-Shahid555/Machin_learning_A_to_Z)**
+### 🤟 [OmniGesture — ASL Sign Language Recognition](https://github.com/Hamza-Shahid555/OmniGesture)
 
-A comprehensive, modular guide through the entire ML landscape. Covers data preprocessing, feature engineering, supervised & unsupervised algorithms, and model evaluation — all with clean, reusable implementations.
+**The Vision:** Millions use sign language daily. What if AI could understand them?
 
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Jupyter`
+OmniGesture reads **American Sign Language (ASL)** gestures directly from video using a **Vision Video Transformer (ViViT)** — trained on the **WLASL dataset** (100 ASL classes).
+
+```
+📹 Video Clip  →  🧩 16-frame Tubelet Embeddings
+      →  🔍 ViViT spatiotemporal attention
+      →  🏷️ Predicted ASL word label
+```
+
+**2-Stage Training:**
+- Stage 1 — Freeze backbone, train head → ~45–55% accuracy
+- Stage 2 — Unfreeze top attention blocks, fine-tune → ~65–75% accuracy
+
+> Prevents **catastrophic forgetting** while learning ASL-specific patterns.
+
+`PyTorch` `HuggingFace ViViT` `OpenCV` `MediaPipe` `Gradio` `einops` `Colab T4`
 
 </td>
-<td width="30%" align="center">
+<td align="center" width="200px">
 
-⭐ 2 Stars · 🍴 1 Fork
+⭐ **1 Star**
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Machin_learning_A_to_Z)
+`Computer Vision`
+`ViViT`
+`Sign Language`
+`Accessibility AI`
+`Video Transformer`
+
+[![View](https://img.shields.io/badge/View_Repo-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shahid555/OmniGesture)
 
 </td>
 </tr>
@@ -65,23 +106,46 @@ A comprehensive, modular guide through the entire ML landscape. Covers data prep
 
 ---
 
-### 🏭 Stage 2 — Production-Grade Engineering
+### ⚡ RESEARCH — Extended LSTM Benchmarking
+
 <table>
 <tr>
-<td width="70%">
+<td>
 
-**[⚙️ End-to-End APS Failure Detection](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project)**
+### 🧠 [xLSTM-Bench — sLSTM & mLSTM from Scratch](https://github.com/Hamza-Shahid555/xLSTM-Bench)
 
-A full ML pipeline built for real-world deployment — detecting failures in the Air Pressure System of heavy-duty vehicles. Covers ingestion, preprocessing, training, evaluation, and production packaging.
+Full PyTorch implementation of **xLSTM** — next-gen recurrent architecture that rivals Transformers using **linear O(N) inference complexity**.
 
-`Scikit-learn` `MLOps` `Pipeline Engineering` `Fault Detection`
+**Two architectures built from scratch:**
+
+| Architecture | Innovation |
+|---|---|
+| **sLSTM** | Exponential gating → eliminates vanishing gradients |
+| **mLSTM** | Matrix memory (KV pairs) → Transformer-like capacity |
+
+**Results on Tiny Shakespeare:**
+
+| Model | Loss (1k steps) | Convergence |
+|---|---|---|
+| Vanilla LSTM | ~1.81 | Slower |
+| **xLSTM (Ours)** | **~1.66 ✅** | **Faster ✅** |
+
+Also includes **MatrixMind** — an xLSTM-based generative agent + Gradio demo.
+
+`PyTorch` `Gradio` `Matplotlib` `Custom RNN Architectures`
 
 </td>
-<td width="30%" align="center">
+<td align="center" width="200px">
 
-🏗️ Production Style
+🆕 **Research Level**
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project)
+`xLSTM`
+`sLSTM / mLSTM`
+`Sequence Modeling`
+`Benchmarking`
+`Generative AI`
+
+[![View](https://img.shields.io/badge/View_Repo-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shahid555/xLSTM-Bench)
 
 </td>
 </tr>
@@ -89,194 +153,185 @@ A full ML pipeline built for real-world deployment — detecting failures in the
 
 ---
 
-### 🧠 Stage 3 — Deep Learning (Theory → Practice)
+### 📈 RESEARCH — Zero-Shot Financial Forecasting
+
 <table>
 <tr>
-<td width="70%">
+<td>
+
+### 💹 [Zero-Shot Financial Forecasting with Transformers](https://github.com/Hamza-Shahid555/Zero-Shot-Financial-Forecasting-with-Transformers)
+
+A Transformer-based deep learning framework that forecasts volatile **cryptocurrency prices** by transferring knowledge from **S&P 500 market dynamics** — with no crypto-specific fine-tuning.
+
+- ✅ Low MSE on completely **unseen** crypto data
+- ✅ Rigorous EDA before any model fitting
+- ✅ Tackles real ML failure modes: volatility blindness, blind model fitting
+
+**Pipeline:** Raw Data → EDA → Feature Engineering → Transformer → Zero-Shot Prediction
+
+`PyTorch` `HuggingFace Transformers` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+</td>
+<td align="center" width="200px">
+
+🆕 **Frontier AI**
+
+`Zero-Shot Learning`
+`Transformers`
+`Time Series`
+`Finance ML`
+`S&P500 → Crypto`
+
+[![View](https://img.shields.io/badge/View_Repo-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shahid555/Zero-Shot-Financial-Forecasting-with-Transformers)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏭 ENGINEERING — Production-Grade ML Pipeline
+
+<table>
+<tr>
+<td>
+
+### ⚙️ [End-to-End APS Failure Detection](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project)
+
+A production-style ML system for detecting **Air Pressure System (APS) failures** in heavy-duty trucks. Structured as a real-world engineering project, not just a notebook.
+
+**Pipeline:** Data Ingestion → Validation → Transformation → Training → Evaluation → Packaging
+
+`Scikit-learn` `MLOps Patterns` `Pipeline Engineering` `Fault Detection`
+
+</td>
+<td align="center" width="200px">
+
+🏗️ **MLOps Style**
+
+`Production ML`
+`Fault Detection`
+`Safety Systems`
+`End-to-End`
+
+[![View](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shahid555/End_to_End_APS_ML_Project)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💬 INTERACTIVE — Live Prediction Dashboard
+
+<table>
+<tr>
+<td>
+
+### 📊 [Customer Churn Prediction Dashboard](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN)
+
+Live ML dashboard predicting bank customer churn via two models: **ANN** (deep learning) + **Random Forest** (ensemble). Enter customer details → get real-time churn probability.
+
+`TensorFlow/Keras` `Scikit-learn` `Streamlit` `Pandas` `Neural Nets`
+
+</td>
+<td align="center" width="200px">
+
+🖥️ **Interactive**
+
+`ANN`
+`Random Forest`
+`Streamlit`
+`Banking ML`
+
+[![View](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 FOUNDATIONS — Learning & Coursework
+
+<details>
+<summary><b>📖 Click to expand Foundation Projects</b></summary>
+
+<br>
 
 **[🔬 Deep Learning Collection](https://github.com/Hamza-Shahid555/Deep-learning)**
+Structured deep dive — CNNs, RNNs, autoencoders, bridging theory and practice.
+`TensorFlow` `Keras` `PyTorch`
 
-A structured deep dive into neural networks — from CNNs and RNNs to advanced architectures. Designed to bridge the gap between textbook theory and working implementation.
+**[📗 Machine Learning A to Z](https://github.com/Hamza-Shahid555/Machin_learning_A_to_Z)** ⭐ 2 Stars
+Classical ML mastery — preprocessing to model evaluation, all modular.
+`Scikit-learn` `Pandas` `NumPy`
 
-`TensorFlow` `Keras` `PyTorch` `CNNs` `RNNs` `Jupyter`
+**[🎓 Neural Networks & Deep Learning — Andrew Ng](https://github.com/Hamza-Shahid555/Neural-Networks-and-Deep-Learning)**
+DeepLearning.AI Specialization assignments — backprop, optimization, NN math from scratch.
+`NumPy` `Coursera` `DeepLearning.AI`
 
-</td>
-<td width="30%" align="center">
-
-📚 Structured Learning
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Deep-learning)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-### 🎯 Stage 4 — Coursera / Andrew Ng Deep Learning Specialization
-<table>
-<tr>
-<td width="70%">
-
-**[🎓 Neural Networks & Deep Learning (Andrew Ng)](https://github.com/Hamza-Shahid555/Neural-Networks-and-Deep-Learning)**
-
-Programming assignments and notes from the **DeepLearning.AI** specialization on Coursera, taught by Andrew Ng. Covers the mathematical foundations of neural networks and practical implementations.
-
-`DeepLearning.AI` `Coursera` `NumPy` `Backpropagation` `Jupyter`
-
-</td>
-<td width="30%" align="center">
-
-🏅 Coursera Certified
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Neural-Networks-and-Deep-Learning)
-
-</td>
-</tr>
-</table>
-
----
-
-### 💬 Stage 5 — Interactive AI Applications
-<table>
-<tr>
-<td width="70%">
-
-**[📊 Customer Churn Prediction Dashboard](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN)**
-
-An interactive ML dashboard that predicts whether a bank customer is likely to churn. Combines an Artificial Neural Network (ANN) and Random Forest with a live input-based prediction interface.
-
-`ANN` `Random Forest` `Streamlit` `Neural Nets` `Banking ML`
-
-</td>
-<td width="30%" align="center">
-
-🖥️ Live Dashboard
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Customer-Churn-Prediction-using-ANN)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🤟 Stage 6 — Computer Vision & Sign Language AI
-<table>
-<tr>
-<td width="70%">
-
-**[🤟 OmniGesture — ASL Sign Language Recognition](https://github.com/Hamza-Shahid555/OmniGesture)** ⭐
-
-An AI that reads **American Sign Language** gestures from video and images in real time. Show it a sign, it tells you the word. Built with computer vision and deep learning for accessibility impact.
-
-`Computer Vision` `CNN` `MediaPipe` `Sign Language` `Accessibility AI`
-
-</td>
-<td width="30%" align="center">
-
-⭐ 1 Star · 🌟 Featured
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/OmniGesture)
-
-</td>
-</tr>
-</table>
-
----
-
-### ⚡ Stage 7 — Cutting-Edge Sequence Modeling
-<table>
-<tr>
-<td width="70%">
-
-**[🧬 xLSTM Benchmark](https://github.com/Hamza-Shahid555/xLSTM-Bench)** 🆕
-
-Experiments and benchmarks with **Extended LSTM (xLSTM)** — a modern evolution of recurrent architectures that challenges Transformers on sequential data. Includes performance comparisons and ablation studies.
-
-`PyTorch` `xLSTM` `RNNs` `Benchmarking` `Sequence Modeling`
-
-</td>
-<td width="30%" align="center">
-
-🆕 Research-Level
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/xLSTM-Bench)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔮 Stage 8 — Future-Forward: Zero-Shot AI Forecasting
-<table>
-<tr>
-<td width="70%">
-
-**[📈 Zero-Shot Financial Forecasting with Transformers](https://github.com/Hamza-Shahid555/Zero-Shot-Financial-Forecasting-with-Transformers)** 🆕
-
-Using **Transformer models** to forecast financial time series in a **zero-shot setting** — no task-specific fine-tuning required. Explores the frontier of foundation models for finance.
-
-`Hugging Face` `PyTorch` `Transformers` `Time Series` `Zero-Shot Learning`
-
-</td>
-<td width="30%" align="center">
-
-🆕 Frontier Research
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hamza-Shahid555/Zero-Shot-Financial-Forecasting-with-Transformers)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages & Core Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Languages & Environments**
 
-### Deep Learning Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+**Deep Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### ML & Data Tools
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+**Data & Vision**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Core Strengths
+**Deployment**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
+
+**Core Strengths**
+
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Expert-FF6F00?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-Exploring-00D1B2?style=flat-square)
-![xLSTM & RNNs](https://img.shields.io/badge/Sequence_Models-Cutting_Edge-7928D1?style=flat-square)
+![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-Advanced-9C27B0?style=flat-square)
+![xLSTM & RNNs](https://img.shields.io/badge/xLSTM_Sequence_Models-Research-7928D1?style=flat-square)
+![Zero-Shot AI](https://img.shields.io/badge/Zero--Shot_Learning-Frontier-1565C0?style=flat-square)
 ![End-to-End ML](https://img.shields.io/badge/End--to--End_Pipelines-Mastered-2CA02C?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Proficient-E91E63?style=flat-square)
-![Zero-Shot AI](https://img.shields.io/badge/Zero--Shot_AI-Researching-1565C0?style=flat-square)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FF6F00&icon_color=FF6F00&text_color=ffffff&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid555&layout=compact&langs_count=8&theme=dark&title_color=FF6F00&text_color=ffffff&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=FF6F00&icon_color=FF6F00&text_color=c9d1d9&border_color=FF6F00&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid555&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&title_color=FF6F00&text_color=c9d1d9&border_color=FF6F00&border_radius=12" />
 
-<br>
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hamza-Shahid555&theme=dark&background=0d1117&ring=FF6F00&fire=FF6F00&currStreakLabel=FF6F00)](https://git.io/streak-stats)
+<img width="70%" src="https://streak-stats.demolab.com?user=Hamza-Shahid555&theme=dark&background=0d1117&border=FF6F00&ring=FF6F00&fire=FF6F00&currStreakLabel=FF6F00&sideLabels=FF6F00&dates=c9d1d9&border_radius=12" />
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Shahid555&bg_color=0d1117&color=FF6F00&line=FF6F00&point=ffffff&area=true&area_color=FF6F0033&hide_border=false&border_color=FF6F00&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -286,43 +341,40 @@ Using **Transformer models** to forecast financial time series in a **zero-shot 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hamza-Shahid555&theme=darkhub&column=6&margin-w=10&title_color=FF6F00)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Hamza-Shahid555&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🤝 Open to Collaborate
 
 <div align="center">
 
-[![Hamza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Shahid555&bg_color=0d1117&color=FF6F00&line=FF6F00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| Domain | What I Bring |
+|---|---|
+| 🧬 Sequence Modeling | xLSTM / RNN research, novel architectures, benchmarking |
+| 📈 Time Series | Transformer zero-shot & transfer learning for finance |
+| 🤟 Accessibility AI | Sign language CV, assistive technology |
+| 🏭 ML Engineering | End-to-end pipelines, production packaging |
+| 🧠 Deep Learning Research | Custom architectures, ablation studies, reproducible experiments |
 
-</div>
+<br/>
 
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-I'm always open to working on **research-driven AI/ML projects**, especially around:
-- 🧬 Sequence modeling & novel RNN architectures
-- 📈 Time series forecasting with foundation models
-- 🤟 Accessibility-focused computer vision
-- 🏭 End-to-end ML pipelines & deployment
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shahid-56a008372)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shahid-56a008372)
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Shahid555)
 
+<br/>
+
+> ⭐ **Star anything that sparks ideas — let's inspire each other and build the future of AI together.** 🌌
+
 </div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-*⭐ Star repos that spark ideas — let's inspire each other and build the future of AI together!* 🌌
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF6F00,100:0d1117&height=130&section=footer&text=Building%20Tomorrow%2C%20One%20Model%20at%20a%20Time&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
