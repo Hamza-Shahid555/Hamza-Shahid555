@@ -1,154 +1,166 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=220&section=header&text=Hamza%20Shahid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20" />
-</p>
+# Hi, I'm Hamza Shahid 👋
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+that+Learn+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%93%8A;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%F0%9F%A7%A0;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
+<!-- Write your intro / bio / skills here. This part is NOT touched by automation. -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hamza-Shahid555">
-    <img src="https://img.shields.io/github/followers/Hamza-Shahid555?label=Follow&style=for-the-badge&color=6A11CB&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Hamza-Shahid555&style=for-the-badge&color=00F7FF&label=Profile+Views" />
-</p>
+I'm a developer who loves building things. Here's a bit about me:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-blueviolet?style=for-the-badge" />
-</p>
+- 🔭 Currently working on: ...
+- 🌱 Learning: ...
+- 💬 Ask me about: ...
+- 📫 Reach me: ...
 
 ---
 
-### 🧠 About Me
+## 🚀 Projects
 
-- 🔭 Currently building projects in **Artificial Intelligence & Machine Learning**
-- 🌱 Deep-diving into **Deep Learning, NLP, and Computer Vision**
-- 💡 I love turning data into decisions and ideas into working models
-- 🤝 Open to collaborating on AI/ML research and applied projects
-- ⚡ Fun fact: I enjoy the moment a model finally stops overfitting
+<!-- PROJECTS-START -->
+<!-- This section is auto-generated. Do not edit manually — it will be overwritten. -->
+<!-- PROJECTS-END -->
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=default)
 
-> ✏️ *Add or remove badges above to match your actual stack — replace the placeholder ones if needed.*
+<!-- Last updated automatically by GitHub Actions -->
 
----
 
-### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔹 <a href="https://github.com/Hamza-Shahid555/REPO-NAME-1">Project Name One</a></h4>
-      One-line description of what this project does and why it's interesting.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h4>🔹 <a href="https://github.com/Hamza-Shahid555/REPO-NAME-2">Project Name Two</a></h4>
-      One-line description of what this project does and why it's interesting.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/ML-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🔹 <a href="https://github.com/Hamza-Shahid555/REPO-NAME-3">Project Name Three</a></h4>
-      One-line description of what this project does and why it's interesting.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Computer%20Vision-green?style=flat-square&logo=opencv&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h4>🔹 <a href="https://github.com/Hamza-Shahid555/REPO-NAME-4">Project Name Four</a></h4>
-      One-line description of what this project does and why it's interesting.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/NLP-purple?style=flat-square&logo=huggingface&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+name: Update Projects Section
 
-> ✏️ *Swap in your real repo names, links, and short descriptions — pinning your best 4 repos on your profile makes this section even stronger.*
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
 
----
+permissions:
+  contents: write
 
-### 🏆 Trophies
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Shahid555&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
----
+      - name: Update projects table
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: Hamza-Shahid555
+        run: node scripts/update-projects.js
 
-### 📊 GitHub Stats
+      - name: Commit changes if README updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: auto-update projects list"
+            git push
+          else
+            echo "No changes to commit."
+          fi
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Shahid555&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid555&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
+          const fs = require("fs");
+const path = require("path");
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Shahid555&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
+const USERNAME = process.env.GH_USERNAME || "Hamza-Shahid555";
+const TOKEN = process.env.GITHUB_TOKEN;
+const README_PATH = path.join(__dirname, "..", "README.md");
 
----
+const START_MARKER = "<!-- PROJECTS-START -->";
+const END_MARKER = "<!-- PROJECTS-END -->";
 
-### 🐍 Contribution Snake
+async function fetchRepos() {
+  const repos = [];
+  let page = 1;
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hamza-Shahid555/Hamza-Shahid555/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</p>
+  while (true) {
+    const res = await fetch(
+      `https://api.github.com/users/${USERNAME}/repos?per_page=100&page=${page}&sort=updated`,
+      {
+        headers: {
+          Accept: "application/vnd.github+json",
+          ...(TOKEN ? { Authorization: `Bearer ${TOKEN}` } : {}),
+        },
+      }
+    );
 
-> ⚙️ *This animates automatically once you add the [snake workflow](https://github.com/Platane/snk) to this repo — it renders your real contribution graph as a moving snake.*
+    if (!res.ok) {
+      throw new Error(`GitHub API error: ${res.status} ${await res.text()}`);
+    }
 
----
+    const data = await res.json();
+    if (data.length === 0) break;
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+    repos.push(...data);
+    page++;
+  }
 
----
+  return repos.filter(
+    (r) => !r.fork && r.name.toLowerCase() !== USERNAME.toLowerCase()
+  );
+}
 
-### 🤝 Connect With Me
+function buildTable(repos) {
+  if (repos.length === 0) {
+    return "_No public projects yet — check back soon!_";
+  }
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+  const header =
+    "| Project | Description | Language | ⭐ Stars | Last Updated |\n" +
+    "|---|---|---|---|---|\n";
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2C5364,100:0F2027&height=150&section=footer" />
-</p>
+  const rows = repos.map((r) => {
+    const name = `[${r.name}](${r.html_url})`;
+    const desc = (r.description || "—").replace(/\|/g, "\\|");
+    const lang = r.language || "—";
+    const stars = r.stargazers_count;
+    const updated = new Date(r.updated_at).toISOString().split("T")[0];
+    return `| ${name} | ${desc} | ${lang} | ${stars} | ${updated} |`;
+  });
 
-<p align="center">
-  <i>⭐️ "Every model starts as noise — the art is in the training." Thanks for stopping by!</i>
-</p>
+  return header + rows.join("\n");
+}
+
+function updateReadme(table) {
+  const readme = fs.readFileSync(README_PATH, "utf8");
+
+  const startIdx = readme.indexOf(START_MARKER);
+  const endIdx = readme.indexOf(END_MARKER);
+
+  if (startIdx === -1 || endIdx === -1) {
+    throw new Error(
+      "Could not find PROJECTS-START / PROJECTS-END markers in README.md"
+    );
+  }
+
+  const before = readme.slice(0, startIdx + START_MARKER.length);
+  const after = readme.slice(endIdx);
+
+  const newReadme = `${before}\n${table}\n${after}`;
+  fs.writeFileSync(README_PATH, newReadme);
+}
+
+(async () => {
+  console.log(`Fetching repos for ${USERNAME}...`);
+  const repos = await fetchRepos();
+  console.log(`Found ${repos.length} project(s).`);
+
+  const table = buildTable(repos);
+  updateReadme(table);
+
+  console.log("README.md updated.");
+})().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
