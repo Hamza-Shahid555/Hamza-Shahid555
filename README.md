@@ -1,10 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza+Shahid;AI+%2F+Machine+Learning+Engineer;Building+Intelligent+Systems+that+Learn;Always+Exploring+New+AI+Frontiers" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=180&section=header&text=&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=220&section=header&text=Hamza%20Shahid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20" />
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+that+Learn+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%93%8A;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%F0%9F%A7%A0;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
@@ -16,6 +16,12 @@
   <a href="https://github.com/Hamza-Shahid555">
     <img src="https://img.shields.io/github/followers/Hamza-Shahid555?label=Follow&style=for-the-badge&color=6A11CB&logo=github" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Hamza-Shahid555&style=for-the-badge&color=00F7FF&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-blueviolet?style=for-the-badge" />
 </p>
 
 ---
@@ -89,6 +95,14 @@
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Shahid555&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -106,6 +120,22 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hamza-Shahid555/Hamza-Shahid555/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</p>
+
+> ⚙️ *This animates automatically once you add the [snake workflow](https://github.com/Platane/snk) to this repo — it renders your real contribution graph as a moving snake.*
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -116,7 +146,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2C5364,100:0F2027&height=150&section=footer" />
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
+<p align="center">
+  <i>⭐️ "Every model starts as noise — the art is in the training." Thanks for stopping by!</i>
+</p>
